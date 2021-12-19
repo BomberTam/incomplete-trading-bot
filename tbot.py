@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+# test pour Git 17h08
+
 # This code is free, THANK YOU!
 # It is explained at the guide you can find at www.theincompleteguide.com
 # You will also find improvement ideas and explanations
